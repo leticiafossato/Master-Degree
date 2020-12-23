@@ -1,9 +1,0 @@
-Link da resolução no GitHub:
-https://github.com/leticiafossato/master-degree/blob/main/aula08-deep-learning/aula08-deep-learning.ipynb
-
-
-(Fonte código DBN:
-https://github.com/albertbup/deep-belief-network
-
-Fonte código Lenet:
-https://medium.com/@mgazar/lenet-5-in-9-lines-of-code-using-keras-ac99294c8086)
